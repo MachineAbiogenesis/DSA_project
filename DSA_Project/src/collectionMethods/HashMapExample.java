@@ -16,5 +16,6 @@ public class HashMapExample {
 		System.out.print(myMap.get(2));
 		
 	}
-	// on test 01
+	// on test 011
+	//asd
 }
