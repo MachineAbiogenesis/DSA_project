@@ -31,7 +31,7 @@ public class ArrayListExamples {
 		
 		myList.size();				// get size of list
 		
-		myList.contains("sa");		// return true or false 
+		myList.contains(1);		// return true or false 
 		myList.indexOf(1);			// return index of value and return -1 if not found 
 		myList.isEmpty();			// check is empty or not 
 		myList.sort(Comparator.naturalOrder());				//Sort data
